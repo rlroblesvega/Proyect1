@@ -1,1 +1,1 @@
-# Proyect1
+# MavenHelloWorldProject
